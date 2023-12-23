@@ -32,7 +32,7 @@ https://github.com/TheRealKwabena/availability-checker.git
 
 SSH
 ```
-git@git.chalmers.se:courses/dit355/dit356-2022/t-2/T2-AvailabilityChecker.git
+git@github.com:TheRealKwabena/availability-checker.git
 ```
 - Open the project in the selected IDE
 
