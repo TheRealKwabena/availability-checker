@@ -27,7 +27,7 @@ Some more information about the MQTT protocol can be read [here](https://www.hiv
 
 HTTPS
 ```
-https://git.chalmers.se/courses/dit355/dit356-2022/t-2/T2-AvailabilityChecker.git
+https://github.com/TheRealKwabena/availability-checker.git
 ```
 
 SSH
@@ -48,15 +48,8 @@ node Main.js
 ## 👤 Authors and acknowledgment
 Aditya - @adityaa
 
-Aleksey - @aleksey
-
-Danesh - @daneshm
-
-Andrea - @fulger
-
 Kwabena - @kwabenaa
 
-Anton - @antongol
 
 Oscar - @scarr
 
